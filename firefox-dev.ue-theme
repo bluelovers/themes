@@ -554,6 +554,10 @@ Normal
       </FontStyle>
     </Language>
     <Language Name="JavaScript">
+      <ColorPair Category="Strings" Foreground="#5C6773" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Strings">
+Normal
+      </FontStyle>
       <ColorPair Category="Color Group 1" Foreground="#808BED" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
 Normal
