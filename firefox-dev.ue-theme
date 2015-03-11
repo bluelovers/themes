@@ -5,7 +5,7 @@
 Custom
     </Look>
     <Font Category="Dockable Windows" Face="Source Code Pro Semibold">
--12:0:0:0:600:0:0:0:0:3:2:1:10
+-12:0:0:0:600:0:0:0:0:3:2:1:3
     </Font>
     <Color ID="ID_DOCKABLE_WINDOW_TEXT" Category="Dockable Window" Description="Text" Value="#C8CDD2"/>
     <Color ID="ID_DOCKABLE_WINDOW_BACKGROUND" Category="Dockable Window" Description="Background" Value="#181D20"/>
@@ -137,10 +137,10 @@ Custom
   </Window>
   <Editor>
     <Font Category="Normal" Face="Source Code Pro Semibold">
--13:0:0:0:400:0:0:0:255:0:0:0:10
+-13:0:0:0:400:0:0:0:255:0:0:0:3
     </Font>
     <Font Category="Hex/Column" Face="Source Code Pro Semibold">
--13:0:0:0:400:0:0:0:255:0:0:0:10
+-13:0:0:0:400:0:0:0:255:0:0:0:3
     </Font>
     <Boolean Category="Active Line" Value="true"/>
     <Boolean Category="Active Column" Value="false"/>
@@ -149,7 +149,7 @@ Custom
     <ColorPair Category="Active Line" Foreground="#C8CDD2" Background="#2D343C"/>
     <ColorPair Category="Active Column" Foreground="#C8CDD2" Background="#070707"/>
     <ColorPair Category="Highlight All" Foreground="#141414" Background="#BCF349"/>
-    <ColorPair Category="HTML/XML Tags" Foreground="#C8CDD2" Background="#285375"/>
+    <ColorPair Category="HTML/XML Tags" Foreground="#C8CDD2" Background="#14283A"/>
     <ColorPair Category="Auto Templates" Foreground="#002B4A" Background="#0560A3"/>
     <ColorPair Category="Folding Controls" Foreground="#37414A" Background="#14171A"/>
     <ColorPair Category="Brace Highlight" Foreground="#C8CDD2" Background="#FF0080"/>
@@ -211,27 +211,27 @@ Normal
       <FontStyle Category="Color Group 5">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 6" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 6" Foreground="#808BED" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 6">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 7" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 7" Foreground="#008000" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 7">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 8" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 8" Foreground="#408080" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 8">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 9" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 9" Foreground="#E89330" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 9">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 10" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 10" Foreground="#831C72" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 10">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 11" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 11" Foreground="#AA0055" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 11">
 Normal
       </FontStyle>
@@ -813,6 +813,12 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 20" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 20">
+Normal
+      </FontStyle>
+    </Language>
+    <Language Name="XUL Firefox Overlay">
+      <ColorPair Category="Color Group 7" Foreground="#FF8040" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 7">
 Normal
       </FontStyle>
     </Language>
