@@ -825,6 +825,10 @@ Normal
       <FontStyle Category="Color Group 7">
 Normal
       </FontStyle>
+      <ColorPair Category="Color Group 9" Foreground="#831C72" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 9">
+Normal
+      </FontStyle>
     </Language>
     <Language Name="YAML">
       <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
