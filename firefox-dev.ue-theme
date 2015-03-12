@@ -596,11 +596,11 @@ Normal
       <FontStyle Category="Color Group 5">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 6" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 6" Foreground="#831C72" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 6">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 7" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 7" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 7">
 Normal
       </FontStyle>
