@@ -722,7 +722,7 @@ Normal
       <FontStyle Category="Color Group 8">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 9" Foreground="#FF0080" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 9" Foreground="#FF0080" Background="#280612" Auto="false"/>
       <FontStyle Category="Color Group 9">
 Normal
       </FontStyle>
